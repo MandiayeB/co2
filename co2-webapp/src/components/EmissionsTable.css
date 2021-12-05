@@ -1,0 +1,7 @@
+.Table {
+    max-height: 520px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    border: 1px solid #edf2f7;
+    border-radius: 10px;
+}

@@ -1,0 +1,30 @@
+.Container {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Title {
+    text-align: center;
+    margin: 0px 70px
+}
+
+.Content {
+    margin-top: 50px;
+    width: 1000px;
+}
+
+.Header {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.Button {
+    margin-top: 10px;
+}
+
+.Countries {
+    display: flex;
+}
